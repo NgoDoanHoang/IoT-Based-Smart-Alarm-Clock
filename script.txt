@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+normal: no motion
+
+if has motion:  start (initialize)
+
+wait until no motion: 
+	start counting
+	if count < 1200s: has motion: reset count
+	if count > 1200s: 
+		if has motion:        stop counting
+		wait until no motion: cary on counting
+
