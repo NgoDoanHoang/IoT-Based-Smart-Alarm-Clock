@@ -1,14 +1,3 @@
-ND trong 3 vid:
-
-Alarm time: vid có đồng hồ trên monitor chạy bình thường, 
-	    thời gian báo thức trong 2 giai đoạn đầu của chu kì 
-
-Alarm time that need modification: vid có đồng hồ trên monitor chạy bình thường, 
-				   thời gian báo thức nằm trong giai đoạn 3 or 4
-
-Hareware: hình ảnh phần cứng khi chương trình chạy
-
-
 Cách hoạt động:
 
 -khi nạp 2 esp, 1 esp sẽ lấy thời gian báo thức từ app truyền cho esp còn lại
